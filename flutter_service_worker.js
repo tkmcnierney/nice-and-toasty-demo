@@ -4,10 +4,9 @@ const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
   "version.json": "8a71a2502eaf4d4ff39efc707e6d2723",
-"index.html": "08f26b2ae90fbb090eba9bc7aecc714b",
-"/": "08f26b2ae90fbb090eba9bc7aecc714b",
-"main.dart.js": "2c840e560229fbf3110b24d4e4931d47",
-"flutter.js": "a85fcf6324d3c4d3ae3be1ae4931e9c5",
+"index.html": "298f32c698a6da91c90fe7971055f2f7",
+"/": "298f32c698a6da91c90fe7971055f2f7",
+"main.dart.js": "e3159ca4c5f2ad99119e6ed0249899c9",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
@@ -27,11 +26,7 @@ const RESOURCES = {
 "assets/fonts/Nunito-Italic-VariableFont_wght.ttf": "35214fe3c667c57530f7cc4c9f8d2f48",
 "assets/fonts/MaterialIcons-Regular.otf": "e7069dfd19b331be16bed984668fe080",
 "assets/fonts/Mukta-Medium.ttf": "d6b60760a3f2c824b32f12d95eef9027",
-"assets/fonts/Mukta-Regular.ttf": "20172687cfdfab812d98a4e0e071081c",
-"canvaskit/canvaskit.js": "97937cb4c2c2073c968525a3e08c86a3",
-"canvaskit/profiling/canvaskit.js": "c21852696bc1cc82e8894d851c01921a",
-"canvaskit/profiling/canvaskit.wasm": "371bc4e204443b0d5e774d64a046eb99",
-"canvaskit/canvaskit.wasm": "3de12d898ec208a5f31362cc00f09b9e"
+"assets/fonts/Mukta-Regular.ttf": "20172687cfdfab812d98a4e0e071081c"
 };
 
 // The application shell files that are downloaded before a service worker can
