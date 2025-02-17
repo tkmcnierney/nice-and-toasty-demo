@@ -1,11 +1,11 @@
 {
-    "name": "Nice and Toasty",
-    "short_name": "Nice and Toasty",
+    "name": "Nice and Toasty Demo",
+    "short_name": "Nice and Toasty Demo",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A web-based version of Nice and Toasty.",
+    "description": "A web-based version of the Friendly Fire card game.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [

@@ -71308,7 +71308,7 @@ return A.O($async$wd,r)}}
 A.a1g.prototype={}
 A.G3.prototype={
 N(a){var s=A.qK(null,B.C,null,"LuckiestGuy",B.C,!0)
-return new A.vY(A.ap(["stage",new A.a0v()],t.N,t.Ab),"stage","Friendly Fire",s,null)}}
+return new A.vY(A.ap(["stage",new A.a0v()],t.N,t.Ab),"stage","Nice and Toasty Demo",s,null)}}
 A.a0v.prototype={
 $1(a){return A.amt(null,null)},
 $S:169}
